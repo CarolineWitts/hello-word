@@ -1,4 +1,10 @@
-# hello-word
-teste azure
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>meditação</title>
+</head>
+<body>
 
-eu gosto de yoga
+</body>
+</html>
