@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>meditação</title>
-</head>
+experimentos com machine learning</head>
 <body>
 
 </body>
